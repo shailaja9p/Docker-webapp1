@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;BootBatchProj03-DBToCSVScheduling&apos; to &apos;BootBatchProj05-DBToCSVScheduling&apos;&#x0D;&#x0A;- Original element: &apos;BootBatchProj03-DBToCSVScheduling&apos;&#x0D;&#x0A;- Renamed element: &apos;BootBatchProj03-DBToCSVScheduling&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;BootBatchProj03-DBToCSVScheduling&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=BootBatchProj03-DBToCSVScheduling" name="BootBatchProj05-DBToCSVScheduling" references="true" stamp="1685879772463" version="1.0"/>
+</session>

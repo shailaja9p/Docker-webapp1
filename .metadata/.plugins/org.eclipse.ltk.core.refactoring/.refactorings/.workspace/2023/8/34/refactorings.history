@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootSecurityProj01-InMemoryDB2&apos; to &apos;BootSecurityProj01-JDBC-DB&apos;" description="Rename resource &apos;BootSecurityProj01-InMemoryDB2&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/BootSecurityProj01-InMemoryDB2" name="BootSecurityProj01-JDBC-DB" stamp="1693065214569" updateReferences="true"/>
+</session>

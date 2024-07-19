@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;BootSecurityProj01-InMemoryDB/src/main/webapp/WEB-INF/pages/home.jsp&apos; to &apos;welcome.jsp&apos;" description="Rename resource &apos;home.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/WEB-INF/pages/home.jsp" name="welcome.jsp" stamp="1693026477712" updateReferences="true"/>
+</session>

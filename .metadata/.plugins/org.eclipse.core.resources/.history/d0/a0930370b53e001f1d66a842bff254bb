@@ -1,0 +1,58 @@
+package com.w3softtech.dashboard;
+class Employee{
+	private String empName;
+
+	public String getEmpName() {
+		return empName;
+	}
+
+	public void setEmpName(String empName) {
+		this.empName = empName;
+	}
+
+	public Employee(String empName) {
+		super();
+		this.empName = empName;
+	}
+	
+}
+public class CoreJava {
+
+	public static void main(String[] args) {
+
+	/*	String empName1="kundan";
+		String empName2="kundan";
+		System.out.println(empName1.equals(empName2));
+		System.out.println(empName1==empName2);
+		System.out.println(empName1.hashCode()+"   "+empName2.hashCode());
+		
+			String empName3=empName1;
+			System.out.println(empName3.equals(empName1));
+			System.out.println(empName3==empName1);
+		
+			empName1 ="radhika";
+		
+			System.out.println(empName3.equals(empName1));
+			System.out.println(empName3==empName1);*/
+	System.out.println("===============================");	
+	String eName1= new String("kundan");
+	String eName2= new String("kundan");
+	System.out.println(eName1.equals(eName2));
+	System.out.println(eName1==eName2);
+	String eName3=eName1;
+	System.out.println(eName3.equals(eName1));
+	System.out.println(eName3==eName1);
+	
+	eName1="radhika";
+	System.out.println(eName3.equals(eName1));
+	System.out.println(eName3==eName1);
+	
+	/*	Employee emp1 = new Employee("Kundan");
+		Employee emp2 = new Employee("Kundan");
+		System.out.println(emp1.getEmpName().equals(emp2.getEmpName()));
+		System.out.println(emp1.getEmpName()==emp2.getEmpName());
+		System.out.println(emp1.hashCode()+"   "+emp2.hashCode());*/
+	}
+	//System.out.println();
+
+}

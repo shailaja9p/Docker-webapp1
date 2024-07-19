@@ -1,0 +1,11 @@
+public class CoreJava {
+
+	public static void main(String[] args) {
+
+		String empName1="kundan";
+		String empName2="kundan";
+		System.out.println(empName1.equals(empName2));
+		System.out.println(empName1==empName2);
+	}
+
+}

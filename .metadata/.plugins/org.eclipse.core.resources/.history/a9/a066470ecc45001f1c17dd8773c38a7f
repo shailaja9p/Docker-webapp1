@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:web="http://xmlns.jcp.org/xml/ns/javaee">
+  <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <description></description>
+    <display-name>DateServlet</display-name>
+    <servlet-name>DateServlet</servlet-name>
+    <servlet-class>DateServlet</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>DateServlet</servlet-name>
+    <url-pattern>/dateUrl</url-pattern>
+  </servlet-mapping>
+</web-app>
