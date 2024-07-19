@@ -17492,3 +17492,13 @@ org.eclipse.core.runtime.CoreException: Launch configuration BootMsProj05EurekaS
 2024-07-19 20:04:07,179 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2024-07-19 20:04:14,763 [Worker-49: Launching Docker-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp":
 2024-07-19 20:04:14,764 [Worker-49: Launching Docker-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
+2024-07-19 20:35:41,914 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-19 20:35:41,915 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp\src\main\resources
+2024-07-19 20:35:41,917 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-19 20:35:41,918 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp\src\test\resources
+2024-07-19 20:35:41,918 [Worker-58: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Docker-webapp
+2024-07-19 20:35:41,919 [Worker-58: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Docker-webapp
+2024-07-19 20:36:06,523 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-19 20:36:06,523 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp\src\main\resources
+2024-07-19 20:36:06,526 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2024-07-19 20:36:06,527 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp\src\test\resources
