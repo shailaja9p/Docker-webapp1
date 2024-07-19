@@ -17484,3 +17484,8 @@ org.eclipse.core.runtime.CoreException: Launch configuration BootMsProj05EurekaS
 2024-07-19 19:17:40,805 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp\src\main\resources
 2024-07-19 19:17:40,811 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2024-07-19 19:17:40,812 [Worker-35: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp\src\test\resources
+2024-07-19 19:43:03,246 [main] INFO  org.eclipse.jetty.server.Server - jetty-10.0.13; built: 2022-12-07T20:13:20.134Z; git: 1c2636ea05c0ca8de1ffd6ca7f3a98ac084c766d; jvm 17.0.7+7
+2024-07-19 19:43:03,268 [main] INFO  o.e.j.s.s.DefaultSessionIdManager - Session workerName=node0
+2024-07-19 19:43:03,307 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@15f7f311{/wse,null,AVAILABLE}
+2024-07-19 19:43:03,328 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@511f9961{HTTP/1.1, (http/1.1)}{0.0.0.0:64551}
+2024-07-19 19:43:03,332 [main] INFO  org.eclipse.jetty.server.Server - Started Server@38f46ee4{STARTING}[10.0.13,sto=0] @8184957ms
