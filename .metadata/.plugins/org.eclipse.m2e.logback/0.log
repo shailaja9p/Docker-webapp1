@@ -17489,3 +17489,6 @@ org.eclipse.core.runtime.CoreException: Launch configuration BootMsProj05EurekaS
 2024-07-19 19:43:03,307 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@15f7f311{/wse,null,AVAILABLE}
 2024-07-19 19:43:03,328 [main] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@511f9961{HTTP/1.1, (http/1.1)}{0.0.0.0:64551}
 2024-07-19 19:43:03,332 [main] INFO  org.eclipse.jetty.server.Server - Started Server@38f46ee4{STARTING}[10.0.13,sto=0] @8184957ms
+2024-07-19 20:04:07,179 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2024-07-19 20:04:14,763 [Worker-49: Launching Docker-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\Lenovo\Documents\workspace-spring-tool-suite-4-4.18.1.RELEASE\Docker-webapp":
+2024-07-19 20:04:14,764 [Worker-49: Launching Docker-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean package
